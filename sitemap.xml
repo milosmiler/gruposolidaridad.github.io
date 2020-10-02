@@ -1,19 +1,23 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
     <url>
+        <loc> /avisodeprivacidad.html</loc>
+        <lastmod>2020-10-02T04:28:32.761Z</lastmod>
+    </url>
+    <url>
         <loc> /contacto.html</loc>
-        <lastmod>2020-10-02T03:26:53.954Z</lastmod>
+        <lastmod>2020-10-02T04:28:32.918Z</lastmod>
     </url>
     <url>
         <loc> /</loc>
-        <lastmod>2020-10-02T03:26:54.187Z</lastmod>
+        <lastmod>2020-10-02T04:28:33.064Z</lastmod>
     </url>
     <url>
         <loc> /nosotros.html</loc>
-        <lastmod>2020-10-02T03:26:54.269Z</lastmod>
+        <lastmod>2020-10-02T04:28:33.076Z</lastmod>
     </url>
     <url>
         <loc> /servicios.html</loc>
-        <lastmod>2020-10-02T03:26:54.270Z</lastmod>
+        <lastmod>2020-10-02T04:28:33.078Z</lastmod>
     </url>
 </urlset>
